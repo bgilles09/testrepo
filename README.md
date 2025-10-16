@@ -14,7 +14,9 @@ Test Repo for Six Sigma Class
 Make a code chunk
 
 ```
-
+library(dplyr)
+# This is my R code
 ```
+
 
 
